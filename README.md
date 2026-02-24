@@ -47,6 +47,11 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuyaTake-h15&theme=vue-dark&layout=compact&langs_count=10" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuyaTake-h15&theme=solarized" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuyaTake-h15&theme=solarized" />
+</div>
+
 ---
 
 ## ⚡ Fun Fact
