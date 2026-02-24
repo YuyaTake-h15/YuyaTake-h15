@@ -16,8 +16,8 @@
 - 🎓 **Focus**: Computer Science & Intelligent Systems
 - 🛰️ **Current Research**: 外邦図デジタルアーカイブを用いた地図地物の自動抽出および経年変化の定量化（GeoAI / Remote Sensing）
 - 🧬 **Next Step**: 来年度からは熊本大学にて、**細胞診断（Biotechnology × AI）** の研究に従事予定。
-- 🌱 **Learning**: 現在*Python*を学習、今後*Terraform*を学習予定。
-- 🏸 **Interests**: Football, Badminton, Cooking (Tacos/Pasta), Speaking English.
+- 🌱 **Learning**: 現在 **Python, C, C++, Java** を中心に学習中。今後は **Terraform** によるインフラ自動化にも挑戦します。
+- 🏸 **Interests**: Football, Badminton, Cooking (Tacos/Pasta), Speaking English (IELTS 7.5 target).
 
 <p align="center">
   <a href="https://github.com/YuyaTake-h15">
@@ -32,7 +32,11 @@
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,fastapi,js,ts,react,next,tailwind,nodejs,go,postgres,sqlite,docker,aws,gcp,vercel,terraform,git,github,qgis,figma" />
+### Languages & Tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,c,cpp,java,git,github,qgis,latex" />
+
+### Planning to Learn
+<img alt="planning to learn" src="https://skillicons.dev/icons?theme=dark&i=terraform,docker,aws" />
 
 ---
 
@@ -43,13 +47,8 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuyaTake-h15&theme=vue-dark&layout=compact&langs_count=10" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuyaTake-h15&theme=solarized" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuyaTake-h15&theme=solarized" />
-</div>
-
 ---
 
 ## ⚡ Fun Fact
 - 🎸 アコースティックギターを練習中。
-- 🌮 タコス作りが好きです。
+- 🌏 英語でのコミュニケーションが好きです。
