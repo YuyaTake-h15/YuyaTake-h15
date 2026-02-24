@@ -15,8 +15,8 @@
 
 - 🎓 **Focus**: Computer Science & Intelligent Systems
 - 🛰️ **Current Research**: 外邦図デジタルアーカイブを用いた地図地物の自動抽出および経年変化の定量化（GeoAI / Remote Sensing）
-- 🧬 **Next Step**: 来年度からは熊本大学にて、**細胞診断（Biotechnology × AI）** の研究に従事予定。
-- 🌱 **Learning**: 現在 **Python, C, C++, Java** を中心に学習中。今後は **Terraform** によるインフラ自動化にも挑戦します。
+- 🧬 **Next Step**: 来年度からは熊本大学にて、**細胞診断（Biotechnology × AI）** の研究を行う予定。
+- 🌱 **Learning**: 現在 **Python, C, C++, Java** を中心に学習中。今後は **Terraform** によるインフラ自動化にもチャレンジしたい。
 - 🏸 **Interests**: Football, Badminton, Cooking (Tacos/Pasta), Speaking English (IELTS 7.5 target).
 
 <p align="center">
